@@ -12,10 +12,11 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1>Resurrected Website</h1>
+<p>I found this domain name and the content below is from original website in 2010 on the Internet Archive: Wayback Machine</p>
 		</header>
 
 <!-- Content -->
-<h2 id="Luxury Accommodation in Barcelona</h2>
+<h2>Luxury Accommodation in Barcelona</h2>
 <p>El Palauet Living Barcelona appears in a modernist building from 1906 at number 113 of Passeig de Gracia, the most emblematic street in Barcelona: six exclusive 150m2 apartments, with two suites each and views of the Passeig de Gracia and the Tibidabo mountain.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
