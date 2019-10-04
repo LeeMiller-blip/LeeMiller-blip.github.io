@@ -4,6 +4,7 @@ title: Aspiring Web Designer
 description: About Lee
 image: assets/images/pic08.jpg
 nav-menu: true
+show_tile: true
 ---
 
 Hi! My name is Lee Miller, 
