@@ -2,7 +2,7 @@
 title: Resources
 layout: landing
 description: 'Resources building websites.'
-image: assets/images/pic07.jpg
+image: assets/images/pic04.jpg
 nav-menu: true
 show_tile: true
 
