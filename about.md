@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About Lee
+title: Aspiring Web Designer
 description: About Lee
 image: assets/images/pic08.jpg
 nav-menu: true
