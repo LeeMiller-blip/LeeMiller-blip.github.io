@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resurrected Website: Luxury Accommodation in Barcelona  
+title: Resurrected Website  
 nav-menu: true
 ---
 
