@@ -1,16 +1,9 @@
 # site settings
-title: Lee
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+title: Lee Miller
+subtitle: Learning To Code
+email: 
 description: I'm learning to code, and I wanted to test using a Jekyll theme on Git Pages. 
 url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
