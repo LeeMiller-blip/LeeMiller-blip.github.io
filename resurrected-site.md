@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Resurrected Website  
+title: Resurrected Website 
+layout: page 
+description: 'I found this domain name and the content below is from original website in 2010 on the Internet Archive: Wayback Machin. I think puting it online with better design is a way of learning to code.'
 nav-menu: true
+---
 ---
 
 <!-- Main -->
@@ -12,7 +14,7 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1>Resurrected Website</h1>
-<p>I found this domain name and the content below is from original website in 2010 on the <a href="https://web.archive.org/web/20100122073440/http://www.eplivingbarcelona.com/deluxe-hotel-barcelona.php">Internet Archive: Wayback Machin</a></p>
+<p>I found this domain name and the content below is from original website in 2010 on the <a href="https://web.archive.org/web/20100122073440/http://www.eplivingbarcelona.com/deluxe-hotel-barcelona.php">Internet Archive: Wayback Machin</a>. I think puting it online with better design is a way of learning to code.</p>
 		</header>
 
 <!-- Content -->
