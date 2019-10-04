@@ -4,6 +4,8 @@ layout: landing
 description: 'Resources building websites.'
 image: assets/images/pic07.jpg
 nav-menu: true
+show_tile: true
+
 ---
 
 <!-- Main -->
