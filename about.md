@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generic
+title: About Lee
 description: About Lee
 image: assets/images/pic08.jpg
 nav-menu: true
