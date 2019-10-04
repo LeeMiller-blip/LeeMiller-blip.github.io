@@ -12,16 +12,16 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1>Resurrected Website</h1>
-<p>I found this domain name and the content below is from original website in 2010 on the Internet Archive: Wayback Machine</p>
+<p>I found this domain name and the content below is from original website in 2010 on the [Internet Archive: Wayback Machine](https://web.archive.org/web/20100122073440/http://www.eplivingbarcelona.com/deluxe-hotel-barcelona.php)</p>
 		</header>
 
 <!-- Content -->
 <h2>Luxury Accommodation in Barcelona</h2>
-<p>El Palauet Living Barcelona appears in a modernist building from 1906 at number 113 of Passeig de Gracia, the most emblematic street in Barcelona: six exclusive 150m2 apartments, with two suites each and views of the Passeig de Gracia and the Tibidabo mountain.</p>
+<p>With an interesting blend of design and modern decoration with the technological developments of the 21st century, in modernist surroundings from the early 20th century, they create Modernismo Contemporáneo - Gaudi Style, which consists of respecting and restoring the original decorative elements and adapting them to the materials, craftsmen and technology of the 21st century.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Deluxe hotel services</h3>
+		<p>El Palauet Living Barcelona, has a wide range of à la carte services for its customers, daily room service, breakfast in the apartments, chef for celebrations or meals, and a butler service to give our customers the solution to any of their needs or desires, so that they might enjoy their stay: massage, hairdressing, personal shopper, personal training, vehicle rental, show tickets... El Palauet Living Barcelona appears in a modernist building from 1906 at number 113 of Passeig de Gracia, the most emblematic street in Barcelona: six exclusive 150m2 apartments, with two suites each to rent for enjoy your next stay in Barcelona.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Magna odio tempus commodo</h3>
