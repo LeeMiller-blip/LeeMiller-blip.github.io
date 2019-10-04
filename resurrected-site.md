@@ -3,7 +3,7 @@ title: Resurrected Website
 layout: page 
 description: 'I found this domain name and the content below is from original website in 2010 on the Internet Archive: Wayback Machine. I think puting it online with better design is a way of learning to code.'
 nav-menu: true
-show_tile: true
+show_tile: false
 ---
 ---
 
