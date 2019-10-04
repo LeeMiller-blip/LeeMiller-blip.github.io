@@ -12,7 +12,7 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1>Resurrected Website</h1>
-<p>I found this domain name and the content below is from original website in 2010 on the [Internet Archive: Wayback Machine](https://web.archive.org/web/20100122073440/http://www.eplivingbarcelona.com/deluxe-hotel-barcelona.php)</p>
+<p>I found this domain name and the content below is from original website in 2010 on the <a href="https://web.archive.org/web/20100122073440/http://www.eplivingbarcelona.com/deluxe-hotel-barcelona.php">Internet Archive: Wayback Machin</a></p>
 		</header>
 
 <!-- Content -->
